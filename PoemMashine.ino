@@ -3,6 +3,7 @@ PoemMaschine v1.0
 
 Created  19 Feb 2015
 by Michael Braverman
+Available Online: https://gist.github.com/mixania/813788550e25800a9159
  */
 
 #include <EEPROM.h>
